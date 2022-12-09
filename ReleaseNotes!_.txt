@@ -1,0 +1,3 @@
+25nov2020.17:37 production
+09.02.2022 10:07 fixed bug with number 00 (00=100)
+09.02.2022 10:43 fixed bug with number 08 (08=8) and 09 (09=9)
