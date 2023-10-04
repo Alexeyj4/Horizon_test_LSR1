@@ -1,0 +1,2 @@
+print(sys.ecx_info())
+time.sleep(100)
